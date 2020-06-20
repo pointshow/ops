@@ -1,5 +1,7 @@
 * [使用](README)
   * [介绍](start/overview)
   * [快速使用](start/quick)
+* [客服](customer/README)
+* [技术支持](support/README)
 * [商户](merchant/README)
   * [介绍](merchant/overview)
