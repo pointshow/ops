@@ -5,5 +5,6 @@
   * [版本](start/version)
 * [客服](customer/README)
 * [技术支持](support/README)
+	* [离线应用](support/offlineApp)
 * [商户](merchant/README)
   * [介绍](merchant/overview)
