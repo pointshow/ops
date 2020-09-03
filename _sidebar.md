@@ -8,3 +8,5 @@
 	* [离线应用](support/offlineApp)
 * [商户](merchant/README)
   * [介绍](merchant/overview)
+  * [商户](merchant/README)
+* [终端管理系统](terminal/manage/README)
